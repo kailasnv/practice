@@ -14,3 +14,10 @@
 *.a
 *.lib
 *.dSYM/   
+
+
+# Build directories
+8x8_display_logic/build/
+build/
+bin/
+out/
