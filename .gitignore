@@ -1,0 +1,16 @@
+# Ignore all executable files
+*.exe
+*.out
+*.app
+*.bin
+
+# Ignore compiled object files (generated from .c files)
+*.o
+*.obj
+
+# Ignore libraries and debug files
+*.so
+*.dll
+*.a
+*.lib
+*.dSYM/   
